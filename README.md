@@ -29,5 +29,5 @@ loss - cross-entropy metric - DICE coeff. (https://towardsdatascience.com/metric
 
 Это позволяет работать с любой картинкой нужного размера, а учить на меньших объектах, экономим память и время обработки, повышаем разнообразие в каждом пакекте (для медицинских фоток типа гистологий работает отлично).
 
-Второй пример(пока в работе) UNet_COVID19_CT  из https://www.kaggle.com/andrewmvd/covid19-ct-scans
+Второй пример(пока в работе) UNet_COVID19_CT  из https://www.kaggle.com/andrewmvd/covid19-ct-scans - ноутбук работает под kaggle https://www.kaggle.com/mariiakorliakova/unet-covid19-ct
 сегментация КТ картин для ковида - схема таже
